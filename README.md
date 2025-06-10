@@ -19,11 +19,10 @@
 ## 🛠️ Built With
 
 - [Scratch](https://scratch.mit.edu/)
-- [TurboWarp Packager](https://packager.turbowarp.org/) for HTML export
-- HTML, JavaScript, and asset files for browser-based gameplay
+ 
 
 ---
-
+ 
 ## 🚀 How to Play
 
 Just open the `index.html` file in a web browser **(online)** or visit the [GitHub Pages link](#) if deployed.
